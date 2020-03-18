@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ungoochaix.pjweaver.me/sitemap.xml
